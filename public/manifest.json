@@ -1,0 +1,8 @@
+{
+  "short_name": "Pangaea Test",
+  "name": "Pangaea Take Home Test",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
